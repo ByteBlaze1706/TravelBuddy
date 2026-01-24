@@ -4,7 +4,7 @@ This project is a Python-based application designed to help travelers connect wi
 
 The objective of this project is to support solo and group travelers by providing a platform for community interaction and essential trip planning tools such as task management and trip countdown features.
 
-📌 Project Overview
+# 📌 Project Overview
 Traveling alone can be challenging and difficult to organize.
 In this project, I developed a travel planning application to:
 
@@ -16,7 +16,7 @@ Organize trip-related tasks using a to-do list
 
 Track upcoming trips using a countdown feature
 
-📊 Key Features
+# 📊 Key Features
 
 Travel Buddy Matching
 
@@ -28,7 +28,7 @@ User-Friendly Interface
 
 Community-Based Travel Support
 
-🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 Python
 
@@ -38,7 +38,7 @@ SQLite (if used for storage)
 
 Standard Python Libraries
 
-📈 Insights / Outcomes
+# 📈 Insights / Outcomes
 
 Improved trip organization for users
 
@@ -48,7 +48,7 @@ Reduced challenges of solo travel
 
 Better trip preparation through task tracking
 
-📌 Conclusion
+# 📌 Conclusion
 
 This project demonstrates how Python can be used to build practical applications for real-life problems such as trip planning and social travel. The application helps users stay organized, connect with others, and enjoy a more structured travel experience.
 
