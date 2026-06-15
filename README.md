@@ -51,22 +51,6 @@ The project demonstrates the application of Python in developing real-world solu
 
 ---
 
-## 📷 Application Preview
-
-> Add screenshots of the application's interface here.
-
-### Home Screen
-
-![Home Screen](images/home-screen.png)
-
-### Travel Planner Interface
-
-![Planner Interface](images/planner-screen.png)
-
-### Countdown & Task Management
-
-![Countdown Screen](images/countdown-screen.png)
-
 ---
 
 ## 🛠️ Tech Stack
